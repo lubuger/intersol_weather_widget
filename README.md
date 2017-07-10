@@ -27,17 +27,17 @@ widget_backends.js
 ___________
 index.html
 
-12:<link rel="stylesheet" href="style.css">
+12: <link rel="stylesheet" href="style.css">
 
-13:<script type="text/javascript" src="core.js"></script>
+13: <script type="text/javascript" src="core.js"></script>
 
 
 ___________
 panel.html
 
-16:<link rel="stylesheet" href="http://localhost/intersol/style.css">
+16: <link rel="stylesheet" href="http://localhost/intersol/style.css">
 
-17:<script type="text/javascript" src="http://localhost/intersol/core.js"></script>
+17: <script type="text/javascript" src="http://localhost/intersol/core.js"></script>
 
 core.js
 7:url : 'http://localhost:3000',
