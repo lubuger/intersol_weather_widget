@@ -6,14 +6,22 @@ Weather widget for company intersol
 widget_backends.js
 
 14:var port = 3000;
+
 15:var hostUrl = 'http://localhost/intersol';
+
 16:var nodeUrl = 'http://localhost:' + port;
 
+
 20:var connection = mysql.createConnection({
+
 21:    host     : 'localhost',
+
 22:    user     : 'admin',
+
 23:    password : 'admin',
+
 24:    database : 'weather'
+
 25:});
 
 ___________
