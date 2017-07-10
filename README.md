@@ -30,3 +30,6 @@ panel.html
 
 core.js
 7:url : 'http://localhost:3000',
+
+Файл с миграциями:
+weather.sql
